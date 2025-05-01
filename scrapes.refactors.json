@@ -1,0 +1,13 @@
+{
+  "scrapes": [
+    {
+      "title": "full api example in python post",
+      "tag_hint": "<code\\s*jsname=",
+      "url": "https://www.google.com/search?q=full+api+example+in+python+post&sca_esv=1740ddc3d2160827&ei=uaMTaKSAKNmz5NoPzKORsAQ&ved=0ahUKEwjkwP7n2oKNAxXZGVkFHcxRBEYQ4dUDCBI&uact=5&oq=full+api+example+in+python+post&gs_lp=Egxnd3Mtd2l6LXNlcnAiH2Z1bGwgYXBpIGV4YW1wbGUgaW4gcHl0aG9uIHBvc3QyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIFECEYnwUyBRAhGJ8FMgUQIRifBUjFDFD7A1jcC3ABeAGQAQCYAbgBoAG4BKoBAzAuNLgBA8gBAPgBAZgCBaACzwTCAgoQABiwAxjWBBhHwgIGEAAYFhgewgILEAAYgAQYhgMYigXCAgUQABjvBcICBRAhGKsCmAMAiAYBkAYIkgcDMS40oAe7GrIHAzAuNLgHyQQ&sclient=gws-wiz-serp"
+    },
+    {
+      "title": "https://www.geeksforgeeks.org/get-post-requests-using-python/",
+      "url": "https://www.geeksforgeeks.org/get-post-requests-using-python/"
+    }
+  ]
+}
